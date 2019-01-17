@@ -1,8 +1,8 @@
-# CS 360 Homework 2
+# CS 360 Lab 1
 
 Name:
 
-Username:
+Drexel username:
 
 Preferred Name:
 
